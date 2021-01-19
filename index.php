@@ -134,7 +134,6 @@
     <div class="row">
         <div class="col-2"></div>
         <div class="col-10">
-            <div class="bg-burger">
                 <div class="row">
 
                     <div class="col-4">
@@ -147,6 +146,8 @@
                             </p>
                         </div><br>
 
+                        
+
                         <input type="button" class="orderbtn" value="Order Now">
 
                         <p style="color:orangered; margin-top: -40px;">$<span style="font-size: x-large;">89.00  </span>
@@ -158,11 +159,16 @@
 
                     <div class="col-4">
                         <img src="images/cirfry.png" style="height: 150px;">
+                        <div class="imgbg">
+                        <!-- <img src="images/bgbur.png" alt="" style="height: 400px; margin-left: -434px;"> -->
+                        </div>
                     </div>
 
-                    <div class="col-4"></div>
+                    <div class="col-4">
+                    
+                    </div>
 
-                </div>
+                
             </div>
         </div>
     </div>
